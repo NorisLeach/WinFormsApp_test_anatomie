@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormsApp_test_anatomie_/1.0.0": {
+        "runtime": {
+          "WinFormsApp_test_anatomie_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp_test_anatomie_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
