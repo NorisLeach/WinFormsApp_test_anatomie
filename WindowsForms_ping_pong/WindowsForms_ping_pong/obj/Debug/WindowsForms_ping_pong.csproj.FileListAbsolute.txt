@@ -1,0 +1,13 @@
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\bin\Debug\WindowsForms_ping_pong.exe.config
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\bin\Debug\WindowsForms_ping_pong.exe
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\bin\Debug\WindowsForms_ping_pong.pdb
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\obj\Debug\WindowsForms_ping_pong.csproj.AssemblyReference.cache
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\obj\Debug\WindowsForms_ping_pong.csproj.SuggestedBindingRedirects.cache
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\obj\Debug\WindowsForms_ping_pong.Form1.resources
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\obj\Debug\WindowsForms_ping_pong.Form2_Mouse.resources
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\obj\Debug\WindowsForms_ping_pong.Form2_Tastatura.resources
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\obj\Debug\WindowsForms_ping_pong.Properties.Resources.resources
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\obj\Debug\WindowsForms_ping_pong.csproj.GenerateResource.cache
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\obj\Debug\WindowsForms_ping_pong.csproj.CoreCompileInputs.cache
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\obj\Debug\WindowsForms_ping_pong.exe
+C:\Users\septi\Desktop\WindowsForms_ping_pong\WindowsForms_ping_pong\obj\Debug\WindowsForms_ping_pong.pdb
